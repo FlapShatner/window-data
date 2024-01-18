@@ -1,0 +1,112 @@
+[
+  {
+    "make": "Mitsubishi",
+    "model": "Raider",
+    "year": "2006",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "43.7",
+      "b": "15.6",
+      "c": "56"
+    }
+  },
+  {
+    "make": "Mitsubishi",
+    "model": "Raider",
+    "year": "2006",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "43.7",
+      "b": "15.6",
+      "c": "56"
+    }
+  },
+  {
+    "make": "Mitsubishi",
+    "model": "Raider",
+    "year": "2007",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "43.7",
+      "b": "15.6",
+      "c": "56"
+    }
+  },
+  {
+    "make": "Mitsubishi",
+    "model": "Raider",
+    "year": "2007",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "43.7",
+      "b": "15.6",
+      "c": "56"
+    }
+  },
+  {
+    "make": "Mitsubishi",
+    "model": "Raider",
+    "year": "2008",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "43.7",
+      "b": "15.6",
+      "c": "56"
+    }
+  },
+  {
+    "make": "Mitsubishi",
+    "model": "Raider",
+    "year": "2008",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "43.7",
+      "b": "15.6",
+      "c": "56"
+    }
+  },
+  {
+    "make": "Mitsubishi",
+    "model": "Raider",
+    "year": "2009",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "43.7",
+      "b": "15.6",
+      "c": "56"
+    }
+  },
+  {
+    "make": "Mitsubishi",
+    "model": "Raider",
+    "year": "2009",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "43.7",
+      "b": "15.6",
+      "c": "56"
+    }
+  },
+  {
+    "make": "Mitsubishi",
+    "model": "Raider",
+    "year": "2010",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "43.7",
+      "b": "15.6",
+      "c": "56"
+    }
+  },
+  {
+    "make": "Mitsubishi",
+    "model": "Raider",
+    "year": "2010",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "43.7",
+      "b": "15.6",
+      "c": "56"
+    }
+  }
+]

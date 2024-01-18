@@ -1,0 +1,530 @@
+[
+  {
+    "make": "Mazda",
+    "model": "B2500 Pickup",
+    "year": "2000",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Mazda",
+    "model": "B2500 Pickup",
+    "year": "2000",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Mazda",
+    "model": "B3000 Pickup",
+    "year": "2000",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Mazda",
+    "model": "B3000 Pickup",
+    "year": "2000",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Mazda",
+    "model": "B2300 Pickup",
+    "year": "2001",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Mazda",
+    "model": "B2500 Pickup",
+    "year": "2001",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Mazda",
+    "model": "B2500 Pickup",
+    "year": "2001",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Mazda",
+    "model": "B3000 Pickup",
+    "year": "2001",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Mazda",
+    "model": "B3000 Pickup",
+    "year": "2001",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Mazda",
+    "model": "B4000 Pickup",
+    "year": "2001",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Mazda",
+    "model": "B2300 Pickup",
+    "year": "2002",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Mazda",
+    "model": "B3000 Pickup",
+    "year": "2002",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Mazda",
+    "model": "B3000 Pickup",
+    "year": "2002",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Mazda",
+    "model": "B4000 Pickup",
+    "year": "2002",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Mazda",
+    "model": "B2300 Pickup",
+    "year": "2003",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Mazda",
+    "model": "B2300 Pickup",
+    "year": "2003",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Mazda",
+    "model": "B3000 Pickup",
+    "year": "2003",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Mazda",
+    "model": "B3000 Pickup",
+    "year": "2003",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Mazda",
+    "model": "B4000 Pickup",
+    "year": "2003",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Mazda",
+    "model": "B2300 Pickup",
+    "year": "2004",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Mazda",
+    "model": "B2300 Pickup",
+    "year": "2004",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Mazda",
+    "model": "B3000 Pickup",
+    "year": "2004",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Mazda",
+    "model": "B3000 Pickup",
+    "year": "2004",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Mazda",
+    "model": "B4000 Pickup",
+    "year": "2004",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Mazda",
+    "model": "B2300 Pickup",
+    "year": "2005",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Mazda",
+    "model": "B3000 Pickup",
+    "year": "2005",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Mazda",
+    "model": "B3000 Pickup",
+    "year": "2005",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Mazda",
+    "model": "B4000 Pickup",
+    "year": "2005",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Mazda",
+    "model": "B2300 Pickup",
+    "year": "2006",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Mazda",
+    "model": "B3000 Pickup",
+    "year": "2006",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Mazda",
+    "model": "B3000 Pickup",
+    "year": "2006",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Mazda",
+    "model": "B4000 Pickup",
+    "year": "2006",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Mazda",
+    "model": "B2300 Pickup",
+    "year": "2007",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Mazda",
+    "model": "B3000 Pickup",
+    "year": "2007",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Mazda",
+    "model": "B3000 Pickup",
+    "year": "2007",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Mazda",
+    "model": "B4000 Pickup",
+    "year": "2007",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Mazda",
+    "model": "B2300 Pickup",
+    "year": "2008",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Mazda",
+    "model": "B3000 Pickup",
+    "year": "2008",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Mazda",
+    "model": "B3000 Pickup",
+    "year": "2008",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Mazda",
+    "model": "B4000 Pickup",
+    "year": "2008",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Mazda",
+    "model": "B2300 Pickup",
+    "year": "2009",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Mazda",
+    "model": "B3000 Pickup",
+    "year": "2009",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Mazda",
+    "model": "B3000 Pickup",
+    "year": "2009",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Mazda",
+    "model": "B4000 Pickup",
+    "year": "2009",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Mazda",
+    "model": "B2300 Pickup",
+    "year": "2010",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Mazda",
+    "model": "B2300 Pickup",
+    "year": "2010",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Mazda",
+    "model": "B3000 Pickup",
+    "year": "2010",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Mazda",
+    "model": "B4000 Pickup",
+    "year": "2010",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  }
+]

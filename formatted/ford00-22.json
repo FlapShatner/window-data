@@ -1,0 +1,8428 @@
+[
+  {
+    "make": "Ford",
+    "model": "Excursion",
+    "year": "2000",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.2",
+      "b": "23.5",
+      "c": "65.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Expedition",
+    "year": "2000",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "47.2",
+      "b": "24",
+      "c": "60.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Explorer",
+    "year": "2000",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "43.4",
+      "b": "22.7",
+      "c": "55.7"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Explorer",
+    "year": "2000",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "43.4",
+      "b": "22.7",
+      "c": "55.7"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2000",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "45.9",
+      "b": "18.3",
+      "c": "58.8"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2000",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "45.9",
+      "b": "18.3",
+      "c": "58.8"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2000",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2000",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2000",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2000",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2000",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2000",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2000",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2000",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2000",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2000",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2000",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2000",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2000",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2000",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2000",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2000",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Ranger Pickup",
+    "year": "2000",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Ranger Pickup",
+    "year": "2000",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Escape",
+    "year": "2001",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "39.2",
+      "b": "18.6",
+      "c": "50.3"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Excursion",
+    "year": "2001",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.2",
+      "b": "23.5",
+      "c": "65.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Expedition",
+    "year": "2001",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "47.2",
+      "b": "24",
+      "c": "60.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Explorer",
+    "year": "2001",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "43.4",
+      "b": "22.7",
+      "c": "55.7"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Explorer",
+    "year": "2001",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "43.4",
+      "b": "22.7",
+      "c": "55.7"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Explorer SPORT TRAC",
+    "year": "2001",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "41.7",
+      "b": "18.4",
+      "c": "53.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2001",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "45.9",
+      "b": "18.3",
+      "c": "58.8"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2001",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "45.9",
+      "b": "18.3",
+      "c": "58.8"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2001",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "45.9",
+      "b": "18.3",
+      "c": "58.8"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2001",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2001",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2001",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2001",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2001",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2001",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2001",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2001",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2001",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2001",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2001",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2001",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2001",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2001",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2001",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2001",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Ranger Pickup",
+    "year": "2001",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Ranger Pickup",
+    "year": "2001",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Escape",
+    "year": "2002",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "39.2",
+      "b": "18.6",
+      "c": "50.3"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Excursion",
+    "year": "2002",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.2",
+      "b": "23.5",
+      "c": "65.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Expedition",
+    "year": "2002",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "47.2",
+      "b": "24",
+      "c": "60.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Explorer",
+    "year": "2002",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "43.4",
+      "b": "22.7",
+      "c": "55.7"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Explorer",
+    "year": "2002",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "42.9",
+      "b": "28.3",
+      "c": "55"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Explorer SPORT TRAC",
+    "year": "2002",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "41.7",
+      "b": "18.4",
+      "c": "53.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2002",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "45.9",
+      "b": "18.3",
+      "c": "58.8"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2002",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "45.9",
+      "b": "18.3",
+      "c": "58.8"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2002",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "45.9",
+      "b": "18.3",
+      "c": "58.8"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2002",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2002",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2002",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2002",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2002",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2002",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2002",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2002",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2002",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2002",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2002",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2002",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2002",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2002",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2002",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2002",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2002",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2002",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Ranger Pickup",
+    "year": "2002",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Ranger Pickup",
+    "year": "2002",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Ranger Pickup",
+    "year": "2002",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "38.6",
+      "b": "16",
+      "c": "49.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Escape",
+    "year": "2003",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "39.2",
+      "b": "18.6",
+      "c": "50.3"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Excursion",
+    "year": "2003",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.2",
+      "b": "23.5",
+      "c": "65.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Expedition",
+    "year": "2003",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.5",
+      "b": "22.8",
+      "c": "66"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Explorer",
+    "year": "2003",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "43.4",
+      "b": "22.7",
+      "c": "55.7"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Explorer",
+    "year": "2003",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "42.9",
+      "b": "28.3",
+      "c": "55"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Explorer SPORT TRAC",
+    "year": "2003",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "41.7",
+      "b": "18.4",
+      "c": "53.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2003",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "45.9",
+      "b": "18.3",
+      "c": "58.8"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2003",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "45.9",
+      "b": "18.3",
+      "c": "58.8"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2003",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "45.9",
+      "b": "18.3",
+      "c": "58.8"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2003",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2003",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2003",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2003",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2003",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2003",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2003",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2003",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2003",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2003",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2003",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2003",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2003",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2003",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2003",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2003",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2003",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2003",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Ranger Pickup",
+    "year": "2003",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Ranger Pickup",
+    "year": "2003",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Ranger Pickup",
+    "year": "2003",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "38.6",
+      "b": "16",
+      "c": "49.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Escape",
+    "year": "2004",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "",
+      "b": "",
+      "c": ""
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Excursion",
+    "year": "2004",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.2",
+      "b": "23.5",
+      "c": "65.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Expedition",
+    "year": "2004",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.5",
+      "b": "22.8",
+      "c": "66"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Explorer",
+    "year": "2004",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "42.9",
+      "b": "28.3",
+      "c": "55"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Explorer SPORT TRAC",
+    "year": "2004",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "41.7",
+      "b": "18.4",
+      "c": "53.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series 150HERITAGE",
+    "year": "2004",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "45.9",
+      "b": "18.3",
+      "c": "58.8"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series 150HERITAGE",
+    "year": "2004",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "45.9",
+      "b": "18.3",
+      "c": "58.8"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2004",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2004",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2004",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2004",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2004",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2004",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2004",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2004",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2004",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2004",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2004",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2004",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2004",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2004",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2004",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2004",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2004",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2004",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2004",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2004",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2004",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Mustang",
+    "year": "2004",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "41",
+      "b": "31",
+      "c": "52.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Ranger Pickup",
+    "year": "2004",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Ranger Pickup",
+    "year": "2004",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Ranger Pickup",
+    "year": "2004",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "38.6",
+      "b": "16",
+      "c": "49.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Escape",
+    "year": "2005",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "39.2",
+      "b": "18.6",
+      "c": "50.3"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Escape HYBRID",
+    "year": "2005",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "39.2",
+      "b": "18.6",
+      "c": "50.3"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Excursion",
+    "year": "2005",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.2",
+      "b": "23.5",
+      "c": "65.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Expedition",
+    "year": "2005",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.5",
+      "b": "22.8",
+      "c": "66"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Explorer",
+    "year": "2005",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "42.9",
+      "b": "28.3",
+      "c": "55"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Explorer SPORT TRAC",
+    "year": "2005",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "41.7",
+      "b": "18.4",
+      "c": "53.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2005",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2005",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2005",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2005",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2005",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2005",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2005",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2005",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2005",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2005",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2005",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2005",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2005",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2005",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2005",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2005",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2005",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2005",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2005",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2005",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2005",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Lobo",
+    "year": "2005",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Lobo",
+    "year": "2005",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Ranger Pickup",
+    "year": "2005",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Ranger Pickup",
+    "year": "2005",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Ranger Pickup",
+    "year": "2005",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "38.6",
+      "b": "16",
+      "c": "49.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Escape",
+    "year": "2006",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "39.2",
+      "b": "18.6",
+      "c": "50.3"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Escape HYBRID",
+    "year": "2006",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "39.2",
+      "b": "18.6",
+      "c": "50.3"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Expedition",
+    "year": "2006",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.5",
+      "b": "22.8",
+      "c": "66"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Explorer",
+    "year": "2006",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "42.9",
+      "b": "22",
+      "c": "55"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Explorer SPORT TRAC",
+    "year": "2006",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "41.7",
+      "b": "18.4",
+      "c": "53.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2006",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2006",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2006",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2006",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2006",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2006",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2006",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2006",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2006",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2006",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2006",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2006",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2006",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2006",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2006",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2006",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2006",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2006",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2006",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2006",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2006",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Lobo (MEX)",
+    "year": "2006",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Lobo (MEX)",
+    "year": "2006",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Ranger Pickup",
+    "year": "2006",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Ranger Pickup",
+    "year": "2006",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Ranger Pickup (MEX)",
+    "year": "2006",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "38.6",
+      "b": "16",
+      "c": "49.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Escape",
+    "year": "2007",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "39.2",
+      "b": "18.6",
+      "c": "50.3"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Escape HYBRID",
+    "year": "2007",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "39.2",
+      "b": "18.6",
+      "c": "50.3"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Expedition",
+    "year": "2007",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.5",
+      "b": "22.8",
+      "c": "66"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Expedition EL",
+    "year": "2007",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.5",
+      "b": "22.8",
+      "c": "66"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Expedition MAX",
+    "year": "2007",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.5",
+      "b": "22.8",
+      "c": "66"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Explorer",
+    "year": "2007",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "42.9",
+      "b": "22",
+      "c": "55"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Explorer SPORT TRAC",
+    "year": "2007",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "43.1",
+      "b": "18.8",
+      "c": "55.2"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2007",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2007",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2007",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2007",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2007",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2007",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2007",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2007",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2007",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2007",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2007",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2007",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2007",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2007",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2007",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2007",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2007",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2007",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2007",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2007",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2007",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.4",
+      "b": "18.5",
+      "c": "64.6"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Lobo (MEX)",
+    "year": "2007",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Lobo (MEX)",
+    "year": "2007",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Ranger Pickup",
+    "year": "2007",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Ranger Pickup",
+    "year": "2007",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Ranger Pickup (MEX)",
+    "year": "2007",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "38.6",
+      "b": "16",
+      "c": "49.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Escape",
+    "year": "2008",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "39.3",
+      "b": "18.8",
+      "c": "50.4"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Escape HYBRID",
+    "year": "2008",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "39.3",
+      "b": "18.8",
+      "c": "50.4"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Expedition",
+    "year": "2008",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.5",
+      "b": "22.8",
+      "c": "66"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Expedition EL",
+    "year": "2008",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.5",
+      "b": "22.8",
+      "c": "66"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Expedition MAX",
+    "year": "2008",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.5",
+      "b": "22.8",
+      "c": "66"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Explorer",
+    "year": "2008",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "42.9",
+      "b": "22",
+      "c": "55"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Explorer SPORT TRAC",
+    "year": "2008",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "43.1",
+      "b": "18.8",
+      "c": "55.2"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2008",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2008",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2008",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2008",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2008",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2008",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2008",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2008",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2008",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2008",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2008",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2008",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2008",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2008",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2008",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2008",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2008",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2008",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2008",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2008",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2008",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Lobo (MEX)",
+    "year": "2008",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Lobo (MEX)",
+    "year": "2008",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Ranger Pickup",
+    "year": "2008",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Ranger Pickup",
+    "year": "2008",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Ranger Pickup (MEX)",
+    "year": "2008",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "38.6",
+      "b": "16",
+      "c": "49.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Escape",
+    "year": "2008",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "39.3",
+      "b": "18.8",
+      "c": "50.4"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Escape HYBRID",
+    "year": "2008",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "39.3",
+      "b": "18.8",
+      "c": "50.4"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Expedition",
+    "year": "2008",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.5",
+      "b": "22.8",
+      "c": "66"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Expedition EL",
+    "year": "2008",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.5",
+      "b": "22.8",
+      "c": "66"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Expedition MAX",
+    "year": "2008",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.5",
+      "b": "22.8",
+      "c": "66"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Explorer",
+    "year": "2008",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "42.9",
+      "b": "22",
+      "c": "55"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Explorer SPORT TRAC",
+    "year": "2008",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "43.1",
+      "b": "18.8",
+      "c": "55.2"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2008",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2008",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2008",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2008",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2008",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2008",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2008",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2008",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2008",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2008",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2008",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2008",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2008",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2008",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2008",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2008",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2008",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2008",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2008",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2008",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2008",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Lobo (MEX)",
+    "year": "2008",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Lobo (MEX)",
+    "year": "2008",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Ranger Pickup",
+    "year": "2008",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Ranger Pickup",
+    "year": "2008",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Ranger Pickup (MEX)",
+    "year": "2008",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "38.6",
+      "b": "16",
+      "c": "49.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Escape",
+    "year": "2009",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "39.3",
+      "b": "18.8",
+      "c": "50.4"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Escape HYBRID",
+    "year": "2009",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "39.3",
+      "b": "18.8",
+      "c": "50.4"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Expedition",
+    "year": "2009",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.5",
+      "b": "22.8",
+      "c": "66"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Expedition EL",
+    "year": "2009",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.5",
+      "b": "22.8",
+      "c": "66"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Expedition MAX",
+    "year": "2009",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.5",
+      "b": "22.8",
+      "c": "66"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Explorer",
+    "year": "2009",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "42.9",
+      "b": "22",
+      "c": "55"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Explorer SPORT TRAC",
+    "year": "2009",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "43.1",
+      "b": "18.8",
+      "c": "55.2"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2009",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2009",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2009",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2009",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2009",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2009",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2009",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2009",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2009",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2009",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2009",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2009",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2009",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2009",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2009",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2009",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2009",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2009",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2009",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2009",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2009",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Lobo (MEX)",
+    "year": "2009",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Lobo (MEX)",
+    "year": "2009",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Lobo (MEX)",
+    "year": "2009",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Ranger Pickup",
+    "year": "2009",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Ranger Pickup",
+    "year": "2009",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Ranger Pickup (MEX)",
+    "year": "2009",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "38.6",
+      "b": "16",
+      "c": "49.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Escape",
+    "year": "2010",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "39.3",
+      "b": "18.8",
+      "c": "50.4"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Escape HYBRID",
+    "year": "2010",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "39.3",
+      "b": "18.8",
+      "c": "50.4"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Expedition",
+    "year": "2010",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.5",
+      "b": "22.8",
+      "c": "66"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Expedition EL",
+    "year": "2010",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.5",
+      "b": "22.8",
+      "c": "66"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Expedition MAX",
+    "year": "2010",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.5",
+      "b": "22.8",
+      "c": "66"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Explorer",
+    "year": "2010",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "42.9",
+      "b": "22",
+      "c": "55"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Explorer SPORT TRAC",
+    "year": "2010",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "43.1",
+      "b": "18.8",
+      "c": "55.2"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2010",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2010",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2010",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2010",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2010",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2010",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2010",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2010",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2010",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2010",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2010",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2010",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2010",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2010",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2010",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2010",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2010",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2010",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2010",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2010",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2010",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Lobo (MEX)",
+    "year": "2010",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Lobo (MEX)",
+    "year": "2010",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Lobo (MEX)",
+    "year": "2010",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Ranger Pickup",
+    "year": "2010",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Ranger Pickup",
+    "year": "2010",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Ranger Pickup (MEX)",
+    "year": "2010",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "38.6",
+      "b": "16",
+      "c": "49.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Escape",
+    "year": "2011",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "39.3",
+      "b": "18.8",
+      "c": "50.4"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Escape HYBRID",
+    "year": "2011",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "39.3",
+      "b": "18.8",
+      "c": "50.4"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Expedition",
+    "year": "2011",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.5",
+      "b": "22.8",
+      "c": "66"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Expedition EL",
+    "year": "2011",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.5",
+      "b": "22.8",
+      "c": "66"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Expedition MAX",
+    "year": "2011",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.5",
+      "b": "22.8",
+      "c": "66"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Explorer",
+    "year": "2011",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "42.8",
+      "b": "20.8",
+      "c": "54.9"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2011",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2011",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2011",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2011",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2011",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2011",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2011",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2011",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2011",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2011",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2011",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2011",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2011",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2011",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2011",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2011",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2011",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2011",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2011",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2011",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2011",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Lobo (MEX)",
+    "year": "2011",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Lobo (MEX)",
+    "year": "2011",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Lobo (MEX)",
+    "year": "2011",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Ranger Pickup",
+    "year": "2011",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Ranger Pickup",
+    "year": "2011",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "40.4",
+      "b": "17.8",
+      "c": "51.8"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Ranger Pickup (MEX)",
+    "year": "2011",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "38.6",
+      "b": "16",
+      "c": "49.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Escape",
+    "year": "2012",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "39.3",
+      "b": "18.8",
+      "c": "50.4"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Escape HYBRID",
+    "year": "2012",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "39.3",
+      "b": "18.8",
+      "c": "50.4"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Expedition",
+    "year": "2012",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.5",
+      "b": "22.8",
+      "c": "66"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Expedition EL",
+    "year": "2012",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.5",
+      "b": "22.8",
+      "c": "66"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Expedition MAX",
+    "year": "2012",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.5",
+      "b": "22.8",
+      "c": "66"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Explorer",
+    "year": "2012",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "42.8",
+      "b": "20.8",
+      "c": "54.9"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2012",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2012",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2012",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2012",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2012",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2012",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2012",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2012",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2012",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2012",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2012",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2012",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2012",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2012",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2012",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2012",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2012",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2012",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2012",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2012",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2012",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Lobo (MEX)",
+    "year": "2012",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Lobo (MEX)",
+    "year": "2012",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Lobo (MEX)",
+    "year": "2012",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Ranger Pickup (MEX)",
+    "year": "2012",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "38.6",
+      "b": "16",
+      "c": "49.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Escape",
+    "year": "2012",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "39.3",
+      "b": "18.8",
+      "c": "50.4"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Escape HYBRID",
+    "year": "2012",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "39.3",
+      "b": "18.8",
+      "c": "50.4"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Expedition",
+    "year": "2012",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.5",
+      "b": "22.8",
+      "c": "66"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Expedition EL",
+    "year": "2012",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.5",
+      "b": "22.8",
+      "c": "66"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Expedition MAX",
+    "year": "2012",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.5",
+      "b": "22.8",
+      "c": "66"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Explorer",
+    "year": "2012",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "42.8",
+      "b": "20.8",
+      "c": "54.9"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2012",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2012",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2012",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2012",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2012",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2012",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2012",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2012",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2012",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2012",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2012",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2012",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2012",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2012",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2012",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2012",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2012",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2012",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2012",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2012",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2012",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Lobo (MEX)",
+    "year": "2012",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Lobo (MEX)",
+    "year": "2012",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Lobo (MEX)",
+    "year": "2012",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Ranger Pickup (MEX)",
+    "year": "2012",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "38.6",
+      "b": "16",
+      "c": "49.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Edge",
+    "year": "2013",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "43.7",
+      "b": "25.5",
+      "c": "56"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Escape",
+    "year": "2013",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "40.9",
+      "b": "19.3",
+      "c": "52.4"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Expedition",
+    "year": "2013",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.5",
+      "b": "22.8",
+      "c": "66"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Expedition EL",
+    "year": "2013",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.5",
+      "b": "22.8",
+      "c": "66"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Expedition MAX",
+    "year": "2013",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.5",
+      "b": "22.8",
+      "c": "66"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Explorer",
+    "year": "2013",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "42.8",
+      "b": "20.8",
+      "c": "54.9"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2013",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2013",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2013",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2013",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2013",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2013",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2013",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2013",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2013",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2013",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2013",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2013",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2013",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2013",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2013",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2013",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2013",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2013",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2013",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2013",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2013",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Lobo (MEX)",
+    "year": "2013",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Lobo (MEX)",
+    "year": "2013",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Lobo (MEX)",
+    "year": "2013",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Escape",
+    "year": "2014",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "40.9",
+      "b": "19.3",
+      "c": "52.4"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Expedition",
+    "year": "2014",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.5",
+      "b": "22.8",
+      "c": "66"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Expedition EL",
+    "year": "2014",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.5",
+      "b": "22.8",
+      "c": "66"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Expedition MAX",
+    "year": "2014",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.5",
+      "b": "22.8",
+      "c": "66"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Explorer",
+    "year": "2014",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "42.8",
+      "b": "20.8",
+      "c": "54.9"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2014",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2014",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2014",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2014",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2014",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2014",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2014",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2014",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2014",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2014",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2014",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2014",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2014",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2014",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2014",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2014",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2014",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2014",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2014",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2014",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2014",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Lobo (MEX)",
+    "year": "2014",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Lobo (MEX)",
+    "year": "2014",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Lobo (MEX)",
+    "year": "2014",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.1",
+      "b": "18.5",
+      "c": "65.5"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Edge",
+    "year": "2015",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "43.7",
+      "b": "24.75",
+      "c": "56"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Escape",
+    "year": "2015",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "40.9",
+      "b": "19.3",
+      "c": "52.4"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Expedition",
+    "year": "2015",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.5",
+      "b": "22.8",
+      "c": "66"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Expedition EL",
+    "year": "2015",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.5",
+      "b": "22.8",
+      "c": "66"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Expedition MAX",
+    "year": "2015",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.5",
+      "b": "22.8",
+      "c": "66"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Explorer",
+    "year": "2015",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "42.8",
+      "b": "20.8",
+      "c": "54.9"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2015",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "18.25",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2015",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.7",
+      "b": "18.5",
+      "c": "65"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2015",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.7",
+      "b": "18.5",
+      "c": "65"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2015",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2015",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2015",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2015",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2015",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2015",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2015",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2015",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2015",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2015",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2015",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2015",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2015",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2015",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2015",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2015",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2015",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2015",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Lobo (MEX)",
+    "year": "2015",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "18.25",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Lobo (MEX)",
+    "year": "2015",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.7",
+      "b": "18.5",
+      "c": "65"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Lobo (MEX)",
+    "year": "2015",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.7",
+      "b": "18.5",
+      "c": "65"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Edge",
+    "year": "2016",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "43.7",
+      "b": "24.75",
+      "c": "56"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Escape",
+    "year": "2016",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "40.9",
+      "b": "19.3",
+      "c": "52.4"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Expedition",
+    "year": "2016",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.5",
+      "b": "22.8",
+      "c": "66"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Expedition EL",
+    "year": "2016",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.5",
+      "b": "22.8",
+      "c": "66"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Expedition MAX",
+    "year": "2016",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.5",
+      "b": "22.8",
+      "c": "66"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Explorer",
+    "year": "2016",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "42.8",
+      "b": "20.8",
+      "c": "54.9"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2016",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "18.25",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2016",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.7",
+      "b": "18.5",
+      "c": "65"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2016",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.7",
+      "b": "18.5",
+      "c": "65"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2016",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2016",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2016",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2016",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2016",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2016",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2016",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2016",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2016",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2016",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2016",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2016",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2016",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2016",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2016",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2016",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2016",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2016",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Lobo (MEX)",
+    "year": "2016",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "18.25",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Lobo (MEX)",
+    "year": "2016",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.7",
+      "b": "18.5",
+      "c": "65"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Lobo (MEX)",
+    "year": "2016",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.7",
+      "b": "18.5",
+      "c": "65"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Escape",
+    "year": "2017",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "40.9",
+      "b": "19.3",
+      "c": "52.4"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Expedition",
+    "year": "2017",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.5",
+      "b": "22.8",
+      "c": "66"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Expedition EL",
+    "year": "2017",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.5",
+      "b": "22.8",
+      "c": "66"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Expedition MAX",
+    "year": "2017",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "51.5",
+      "b": "22.8",
+      "c": "66"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Explorer",
+    "year": "2017",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "42.8",
+      "b": "20.8",
+      "c": "54.9"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2017",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "18.25",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2017",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.7",
+      "b": "18.5",
+      "c": "65"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2017",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.7",
+      "b": "18.5",
+      "c": "65"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2017",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2017",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2017",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2017",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2017",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2017",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2017",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2017",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2017",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2017",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2017",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2017",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2017",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2017",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2017",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2017",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2017",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2017",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Lobo (MEX)",
+    "year": "2017",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "18.25",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Lobo (MEX)",
+    "year": "2017",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.7",
+      "b": "18.5",
+      "c": "65"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Lobo (MEX)",
+    "year": "2017",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.7",
+      "b": "18.5",
+      "c": "65"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Escape",
+    "year": "2018",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "40.9",
+      "b": "19.3",
+      "c": "52.4"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Expedition",
+    "year": "2018",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "47.4",
+      "b": "18.25",
+      "c": "60.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Expedition MAX",
+    "year": "2018",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "47.4",
+      "b": "18.25",
+      "c": "60.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Explorer",
+    "year": "2018",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "42.8",
+      "b": "20.8",
+      "c": "54.9"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2018",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "18.25",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2018",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.7",
+      "b": "18.5",
+      "c": "65"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2018",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.7",
+      "b": "18.5",
+      "c": "65"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2018",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2018",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2018",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2018",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2018",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2018",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2018",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2018",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2018",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2018",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2018",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2018",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2018",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2018",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2018",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2018",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2018",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2018",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Lobo (MEX)",
+    "year": "2018",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "18.25",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Lobo (MEX)",
+    "year": "2018",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.7",
+      "b": "18.5",
+      "c": "65"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Lobo (MEX)",
+    "year": "2018",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.7",
+      "b": "18.5",
+      "c": "65"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Escape",
+    "year": "2019",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "40.9",
+      "b": "19.3",
+      "c": "52.4"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Expedition",
+    "year": "2019",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "47.4",
+      "b": "18.25",
+      "c": "60.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Expedition MAX",
+    "year": "2019",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "47.4",
+      "b": "18.25",
+      "c": "60.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Explorer",
+    "year": "2019",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "42.8",
+      "b": "20.8",
+      "c": "54.9"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2019",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "18.25",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2019",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.7",
+      "b": "18.5",
+      "c": "65"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2019",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.7",
+      "b": "18.5",
+      "c": "65"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2019",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2019",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2019",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2019",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2019",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2019",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2019",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2019",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2019",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2019",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2019",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2019",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2019",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2019",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2019",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2019",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2019",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2019",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Lobo (MEX)",
+    "year": "2019",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "18.25",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Lobo (MEX)",
+    "year": "2019",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.7",
+      "b": "18.5",
+      "c": "65"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Lobo (MEX)",
+    "year": "2019",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.7",
+      "b": "18.5",
+      "c": "65"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Ranger Pickup",
+    "year": "2019",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "43.1",
+      "b": "14",
+      "c": "55.25"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Ranger Pickup",
+    "year": "2019",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "43.1",
+      "b": "14",
+      "c": "55.25"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Ranger Pickup",
+    "year": "2019",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "43.1",
+      "b": "14",
+      "c": "55.25"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Escape",
+    "year": "2020",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "39.2",
+      "b": "20.5",
+      "c": "50.3"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Expedition",
+    "year": "2020",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "47.4",
+      "b": "18.25",
+      "c": "60.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Expedition MAX",
+    "year": "2020",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "47.4",
+      "b": "18.25",
+      "c": "60.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Explorer",
+    "year": "2020",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "44.7",
+      "b": "18",
+      "c": "57.25"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2020",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "18.25",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2020",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.7",
+      "b": "18.5",
+      "c": "65"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2020",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.7",
+      "b": "18.5",
+      "c": "65"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2020",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2020",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2020",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2020",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2020",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2020",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2020",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2020",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2020",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2020",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2020",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2020",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2020",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2020",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2020",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2020",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2020",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2020",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Lobo (MEX)",
+    "year": "2020",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "18.25",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Lobo (MEX)",
+    "year": "2020",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.7",
+      "b": "18.5",
+      "c": "65"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Lobo (MEX)",
+    "year": "2020",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.7",
+      "b": "18.5",
+      "c": "65"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Mustang",
+    "year": "2020",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "34.9",
+      "b": "33.4",
+      "c": "44.7"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Ranger Pickup",
+    "year": "2020",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "43.1",
+      "b": "14",
+      "c": "55.25"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Ranger Pickup",
+    "year": "2020",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "43.1",
+      "b": "14",
+      "c": "55.25"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Ranger Pickup",
+    "year": "2020",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "43.1",
+      "b": "14",
+      "c": "55.25"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Escape",
+    "year": "2021",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "39.2",
+      "b": "20.5",
+      "c": "50.3"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Expedition",
+    "year": "2021",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "47.4",
+      "b": "18.25",
+      "c": "60.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Expedition MAX",
+    "year": "2021",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "47.4",
+      "b": "18.25",
+      "c": "60.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Explorer",
+    "year": "2021",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "44.7",
+      "b": "18",
+      "c": "57.25"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2021",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "18.25",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2021",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2021",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2021",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2021",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2021",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2021",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2021",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2021",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2021",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2021",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2021",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2021",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2021",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2021",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2021",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2021",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2021",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2021",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Lobo (MEX)",
+    "year": "2021",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "18.25",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Lobo (MEX)",
+    "year": "2021",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.7",
+      "b": "18.5",
+      "c": "65"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Lobo (MEX)",
+    "year": "2021",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.7",
+      "b": "18.5",
+      "c": "65"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Ranger Pickup",
+    "year": "2021",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "43.1",
+      "b": "14",
+      "c": "55.25"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Ranger Pickup",
+    "year": "2021",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "43.1",
+      "b": "14",
+      "c": "55.25"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Ranger Pickup",
+    "year": "2021",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "43.1",
+      "b": "14",
+      "c": "55.25"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Escape",
+    "year": "2022",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "39.2",
+      "b": "20.5",
+      "c": "50.3"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Expedition",
+    "year": "2022",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "47.4",
+      "b": "18.25",
+      "c": "60.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Expedition MAX",
+    "year": "2022",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "47.4",
+      "b": "18.25",
+      "c": "60.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Explorer",
+    "year": "2022",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "44.7",
+      "b": "18",
+      "c": "57.25"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F150",
+    "year": "2022",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "18.25",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2022",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2022",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F250",
+    "year": "2022",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2022",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2022",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F350",
+    "year": "2022",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2022",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2022",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F450",
+    "year": "2022",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2022",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2022",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F550",
+    "year": "2022",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "20.2",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2022",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2022",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F650",
+    "year": "2022",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2022",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2022",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F Series F750",
+    "year": "2022",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.8",
+      "b": "18.8",
+      "c": "65.1"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Lobo (MEX)",
+    "year": "2022",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.5",
+      "b": "18.25",
+      "c": "64.75"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Lobo (MEX)",
+    "year": "2022",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "50.7",
+      "b": "18.5",
+      "c": "65"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Lobo (MEX)",
+    "year": "2022",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "50.7",
+      "b": "18.5",
+      "c": "65"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Mustang",
+    "year": "2022",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "34.9",
+      "b": "33.4",
+      "c": "44.7"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Ranger Pickup",
+    "year": "2022",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "43.1",
+      "b": "14",
+      "c": "55.25"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Ranger Pickup",
+    "year": "2022",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "43.1",
+      "b": "14",
+      "c": "55.25"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Ranger Pickup",
+    "year": "2022",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "43.1",
+      "b": "14",
+      "c": "55.25"
+    }
+  }
+]

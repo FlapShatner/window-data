@@ -1,0 +1,1531 @@
+[
+  {
+    "make": "Jeep",
+    "model": "Cherokee",
+    "year": "2000",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "42.9",
+      "b": "19",
+      "c": "55"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Cherokee",
+    "year": "2000",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "42.9",
+      "b": "19",
+      "c": "55"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "year": "2000",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "40.7",
+      "b": "19.5",
+      "c": "52.2"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "TJ",
+    "year": "2000",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "38.6",
+      "b": "24.6",
+      "c": "49.5"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Wrangler",
+    "year": "2000",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "38.6",
+      "b": "24.6",
+      "c": "49.5"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Cherokee",
+    "year": "2001",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "42.9",
+      "b": "19",
+      "c": "55"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Cherokee",
+    "year": "2001",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "42.9",
+      "b": "19",
+      "c": "55"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "year": "2001",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "40.7",
+      "b": "19.5",
+      "c": "52.2"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "TJ",
+    "year": "2001",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "38.6",
+      "b": "24.6",
+      "c": "49.5"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Wrangler",
+    "year": "2001",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "38.6",
+      "b": "24.6",
+      "c": "49.5"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "",
+    "year": "2002",
+    "doors": "",
+    "windowSize": {
+      "a": "40.7",
+      "b": "19.5",
+      "c": "52.2"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Liberty",
+    "year": "2002",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "42.1",
+      "b": "18.7",
+      "c": "54"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "TJ",
+    "year": "2002",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "38.6",
+      "b": "24.6",
+      "c": "49.5"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Wrangler",
+    "year": "2002",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "38.6",
+      "b": "24.6",
+      "c": "49.5"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "",
+    "year": "2003",
+    "doors": "",
+    "windowSize": {
+      "a": "40.7",
+      "b": "19.5",
+      "c": "52.2"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Liberty",
+    "year": "2003",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "42.1",
+      "b": "18.7",
+      "c": "54"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "TJ",
+    "year": "2003",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "38.6",
+      "b": "24.6",
+      "c": "49.5"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Wrangler",
+    "year": "2003",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "38.6",
+      "b": "24.6",
+      "c": "49.5"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "",
+    "year": "2004",
+    "doors": "",
+    "windowSize": {
+      "a": "40.7",
+      "b": "19.5",
+      "c": "52.2"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Liberty",
+    "year": "2004",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "42.1",
+      "b": "18.7",
+      "c": "54"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "TJ",
+    "year": "2004",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "38.6",
+      "b": "24.6",
+      "c": "49.5"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Wrangler",
+    "year": "2004",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "38.6",
+      "b": "24.6",
+      "c": "49.5"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "",
+    "year": "2005",
+    "doors": "",
+    "windowSize": {
+      "a": "41.2",
+      "b": "20.1",
+      "c": "52.8"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Liberty",
+    "year": "2005",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "42.1",
+      "b": "18.7",
+      "c": "54"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "TJ",
+    "year": "2005",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "38.6",
+      "b": "24.6",
+      "c": "49.5"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Wrangler",
+    "year": "2005",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "38.6",
+      "b": "24.6",
+      "c": "49.5"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "",
+    "year": "2006",
+    "doors": "",
+    "windowSize": {
+      "a": "39.8",
+      "b": "18",
+      "c": "51"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "year": "2006",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "41.2",
+      "b": "20.1",
+      "c": "52.8"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Liberty",
+    "year": "2006",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "42.1",
+      "b": "18.7",
+      "c": "54"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "TJ",
+    "year": "2006",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "38.6",
+      "b": "24.6",
+      "c": "49.5"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Wrangler",
+    "year": "2006",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "38.6",
+      "b": "24.6",
+      "c": "49.5"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "",
+    "year": "2007",
+    "doors": "",
+    "windowSize": {
+      "a": "39.8",
+      "b": "18",
+      "c": "51"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Compass",
+    "year": "2007",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "39.8",
+      "b": "21",
+      "c": "51"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "year": "2007",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "41.2",
+      "b": "20.1",
+      "c": "52.8"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Liberty",
+    "year": "2007",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "42.1",
+      "b": "18.7",
+      "c": "54"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Patriot",
+    "year": "2007",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "39.2",
+      "b": "15.5",
+      "c": "50.3"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Wrangler",
+    "year": "2007",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "32.8",
+      "b": "20.6",
+      "c": "42"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Wrangler",
+    "year": "2007",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "32.8",
+      "b": "20.6",
+      "c": "42"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "",
+    "year": "2008",
+    "doors": "",
+    "windowSize": {
+      "a": "39.8",
+      "b": "18",
+      "c": "51"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Compass",
+    "year": "2008",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "39.8",
+      "b": "21",
+      "c": "51"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "year": "2008",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "41.2",
+      "b": "20.1",
+      "c": "52.8"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Liberty",
+    "year": "2008",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "42.5",
+      "b": "17.3",
+      "c": "54.5"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Patriot",
+    "year": "2008",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "39.2",
+      "b": "15.5",
+      "c": "50.3"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Wrangler",
+    "year": "2008",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "32.8",
+      "b": "20.6",
+      "c": "42"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Wrangler",
+    "year": "2008",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "32.8",
+      "b": "20.6",
+      "c": "42"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "",
+    "year": "2009",
+    "doors": "",
+    "windowSize": {
+      "a": "39.8",
+      "b": "18",
+      "c": "51"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Compass",
+    "year": "2009",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "39.8",
+      "b": "21",
+      "c": "51"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "year": "2009",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "41.2",
+      "b": "20.1",
+      "c": "52.8"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Liberty",
+    "year": "2009",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "42.5",
+      "b": "17.3",
+      "c": "54.5"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Patriot",
+    "year": "2009",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "39.2",
+      "b": "15.5",
+      "c": "50.3"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Wrangler",
+    "year": "2009",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "32.8",
+      "b": "20.6",
+      "c": "42"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Wrangler",
+    "year": "2009",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "32.8",
+      "b": "20.6",
+      "c": "42"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "",
+    "year": "2010",
+    "doors": "",
+    "windowSize": {
+      "a": "39.8",
+      "b": "18",
+      "c": "51"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Compass",
+    "year": "2010",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "39.8",
+      "b": "21",
+      "c": "51"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "year": "2010",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "41.2",
+      "b": "20.1",
+      "c": "52.8"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Liberty",
+    "year": "2010",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "42.5",
+      "b": "17.3",
+      "c": "54.5"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Patriot",
+    "year": "2010",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "39.2",
+      "b": "15.5",
+      "c": "50.3"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Wrangler",
+    "year": "2010",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "32.8",
+      "b": "20.6",
+      "c": "42"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Wrangler",
+    "year": "2010",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "32.8",
+      "b": "20.6",
+      "c": "42"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "",
+    "year": "2011",
+    "doors": "",
+    "windowSize": {
+      "a": "39.8",
+      "b": "18",
+      "c": "51"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Compass",
+    "year": "2011",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "39.8",
+      "b": "21",
+      "c": "51"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "year": "2011",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "41.7",
+      "b": "26",
+      "c": "53.5"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Liberty",
+    "year": "2011",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "42.5",
+      "b": "17.3",
+      "c": "54.5"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Patriot",
+    "year": "2011",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "39.2",
+      "b": "15.5",
+      "c": "50.3"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Wrangler",
+    "year": "2011",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "37.1",
+      "b": "20",
+      "c": "47.5"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Wrangler",
+    "year": "2011",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "37.1",
+      "b": "20",
+      "c": "47.5"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "",
+    "year": "2012",
+    "doors": "",
+    "windowSize": {
+      "a": "39.8",
+      "b": "21",
+      "c": "51"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "year": "2012",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "41.7",
+      "b": "26",
+      "c": "53.5"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Liberty",
+    "year": "2012",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "42.5",
+      "b": "17.3",
+      "c": "54.5"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Patriot",
+    "year": "2012",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "39.2",
+      "b": "15.5",
+      "c": "50.3"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Wrangler",
+    "year": "2012",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "37.1",
+      "b": "20",
+      "c": "47.5"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Wrangler",
+    "year": "2012",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "37.1",
+      "b": "20",
+      "c": "47.5"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "",
+    "year": "2013",
+    "doors": "",
+    "windowSize": {
+      "a": "39.8",
+      "b": "21",
+      "c": "51"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "year": "2013",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "41.7",
+      "b": "26",
+      "c": "53.5"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Patriot",
+    "year": "2013",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "39.2",
+      "b": "15.5",
+      "c": "50.3"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Wrangler",
+    "year": "2013",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "37.1",
+      "b": "20",
+      "c": "47.5"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Wrangler",
+    "year": "2013",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "37.1",
+      "b": "20",
+      "c": "47.5"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "",
+    "year": "2014",
+    "doors": "",
+    "windowSize": {
+      "a": "46.6",
+      "b": "21.5",
+      "c": "59.75"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Compass",
+    "year": "2014",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "39.8",
+      "b": "21",
+      "c": "51"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "year": "2014",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "41.7",
+      "b": "26",
+      "c": "53.5"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Patriot",
+    "year": "2014",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "39.2",
+      "b": "15.5",
+      "c": "50.3"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Wrangler",
+    "year": "2014",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "37.1",
+      "b": "20",
+      "c": "47.5"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Wrangler",
+    "year": "2014",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "37.1",
+      "b": "20",
+      "c": "47.5"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "",
+    "year": "2015",
+    "doors": "",
+    "windowSize": {
+      "a": "46.6",
+      "b": "21.5",
+      "c": "59.75"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Compass",
+    "year": "2015",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "39.8",
+      "b": "21",
+      "c": "51"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "year": "2015",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "41.7",
+      "b": "26",
+      "c": "53.5"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Patriot",
+    "year": "2015",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "39.2",
+      "b": "15.5",
+      "c": "50.3"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Renegade",
+    "year": "2015",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "42.9",
+      "b": "15",
+      "c": "55"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Wrangler",
+    "year": "2015",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "37.1",
+      "b": "20",
+      "c": "47.5"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Wrangler",
+    "year": "2015",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "37.1",
+      "b": "20",
+      "c": "47.5"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "",
+    "year": "2016",
+    "doors": "",
+    "windowSize": {
+      "a": "46.6",
+      "b": "21.5",
+      "c": "59.75"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Compass",
+    "year": "2016",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "39.8",
+      "b": "21",
+      "c": "51"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "year": "2016",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "41.7",
+      "b": "26",
+      "c": "53.5"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Patriot",
+    "year": "2016",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "39.2",
+      "b": "15.5",
+      "c": "50.3"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Renegade",
+    "year": "2016",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "42.9",
+      "b": "15",
+      "c": "55"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Wrangler",
+    "year": "2016",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "37.1",
+      "b": "20",
+      "c": "47.5"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Wrangler",
+    "year": "2016",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "37.1",
+      "b": "20",
+      "c": "47.5"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "",
+    "year": "2017",
+    "doors": "",
+    "windowSize": {
+      "a": "46.6",
+      "b": "21.5",
+      "c": "59.75"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Compass MK",
+    "year": "2017",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "39.8",
+      "b": "21",
+      "c": "51"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Compass MP",
+    "year": "2017",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "39.8",
+      "b": "18",
+      "c": "51"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "year": "2017",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "41.7",
+      "b": "26",
+      "c": "53.5"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Patriot",
+    "year": "2017",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "39.2",
+      "b": "15.5",
+      "c": "50.3"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Renegade",
+    "year": "2017",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "42.9",
+      "b": "15",
+      "c": "55"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Wrangler",
+    "year": "2017",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "37.1",
+      "b": "20",
+      "c": "47.5"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Wrangler",
+    "year": "2017",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "37.1",
+      "b": "20",
+      "c": "47.5"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "",
+    "year": "2018",
+    "doors": "",
+    "windowSize": {
+      "a": "46.6",
+      "b": "21.5",
+      "c": "59.75"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Compass MP",
+    "year": "2018",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "39.8",
+      "b": "18",
+      "c": "51"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "year": "2018",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "41.7",
+      "b": "26",
+      "c": "53.5"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Renegade",
+    "year": "2018",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "42.9",
+      "b": "15",
+      "c": "55"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Wrangler",
+    "year": "2018",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "39",
+      "b": "19.5",
+      "c": "50"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Wrangler",
+    "year": "2018",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "39",
+      "b": "19.5",
+      "c": "50"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Wrangler JK",
+    "year": "2018",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "37.1",
+      "b": "20",
+      "c": "47.5"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Wrangler JK",
+    "year": "2018",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "37.1",
+      "b": "20",
+      "c": "47.5"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "",
+    "year": "2019",
+    "doors": "",
+    "windowSize": {
+      "a": "46.6",
+      "b": "21.5",
+      "c": "59.75"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Compass MP",
+    "year": "2019",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "39.8",
+      "b": "18",
+      "c": "51"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "year": "2019",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "41.7",
+      "b": "26",
+      "c": "53.5"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Renegade",
+    "year": "2019",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "42.9",
+      "b": "15",
+      "c": "55"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Wrangler",
+    "year": "2019",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "39",
+      "b": "19.5",
+      "c": "50"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Wrangler",
+    "year": "2019",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "39",
+      "b": "19.5",
+      "c": "50"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "",
+    "year": "2020",
+    "doors": "",
+    "windowSize": {
+      "a": "46.6",
+      "b": "21.5",
+      "c": "59.75"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Compass MP",
+    "year": "2020",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "39.8",
+      "b": "18",
+      "c": "51"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Gladiator",
+    "year": "2020",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "42.5",
+      "b": "17.75",
+      "c": "54.5"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "year": "2020",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "41.7",
+      "b": "26",
+      "c": "53.5"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Renegade",
+    "year": "2020",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "42.9",
+      "b": "15",
+      "c": "55"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Wrangler",
+    "year": "2020",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "39",
+      "b": "19.5",
+      "c": "50"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Wrangler",
+    "year": "2020",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "39",
+      "b": "19.5",
+      "c": "50"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "",
+    "year": "2021",
+    "doors": "",
+    "windowSize": {
+      "a": "46.6",
+      "b": "21.5",
+      "c": "59.75"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Compass MP",
+    "year": "2021",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "39.8",
+      "b": "18",
+      "c": "51"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Gladiator",
+    "year": "2021",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "42.5",
+      "b": "17.75",
+      "c": "54.5"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Grand Cherokee WK",
+    "year": "2021",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "41.7",
+      "b": "26",
+      "c": "53.5"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Grand Cherokee WL",
+    "year": "2021",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "44.1",
+      "b": "16",
+      "c": "56.5"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Renegade",
+    "year": "2021",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "42.9",
+      "b": "15",
+      "c": "55"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Wrangler",
+    "year": "2021",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "39",
+      "b": "19.5",
+      "c": "50"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Wrangler",
+    "year": "2021",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "39",
+      "b": "19.5",
+      "c": "50"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "",
+    "year": "2022",
+    "doors": "",
+    "windowSize": {
+      "a": "39.8",
+      "b": "18",
+      "c": "51"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Gladiator",
+    "year": "2022",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "42.5",
+      "b": "17.75",
+      "c": "54.5"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Grand Cherokee WL",
+    "year": "2022",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "44.1",
+      "b": "16",
+      "c": "56.5"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Wrangler",
+    "year": "2022",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "39",
+      "b": "19.5",
+      "c": "50"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Wrangler",
+    "year": "2022",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "39",
+      "b": "19.5",
+      "c": "50"
+    }
+  }
+]

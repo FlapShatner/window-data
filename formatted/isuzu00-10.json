@@ -1,0 +1,266 @@
+[
+  {
+    "make": "Isuzu",
+    "model": "",
+    "year": "2000",
+    "doors": "",
+    "windowSize": {
+      "a": "40.2",
+      "b": "19.3",
+      "c": "51.5"
+    }
+  },
+  {
+    "make": "Isuzu",
+    "model": "Hombre Pickup",
+    "year": "2000",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "43.6",
+      "b": "15.7",
+      "c": "55.9"
+    }
+  },
+  {
+    "make": "Isuzu",
+    "model": "Hombre Pickup",
+    "year": "2000",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "43.6",
+      "b": "15.7",
+      "c": "55.9"
+    }
+  },
+  {
+    "make": "Isuzu",
+    "model": "HTR",
+    "year": "2006",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "44.5",
+      "b": "22",
+      "c": "57"
+    }
+  },
+  {
+    "make": "Isuzu",
+    "model": "HTR",
+    "year": "2006",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "44.5",
+      "b": "22",
+      "c": "57"
+    }
+  },
+  {
+    "make": "Isuzu",
+    "model": "HVR",
+    "year": "2006",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "44.5",
+      "b": "22",
+      "c": "57"
+    }
+  },
+  {
+    "make": "Isuzu",
+    "model": "HVR",
+    "year": "2006",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "44.5",
+      "b": "22",
+      "c": "57"
+    }
+  },
+  {
+    "make": "Isuzu",
+    "model": "HXR",
+    "year": "2006",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "44.5",
+      "b": "22",
+      "c": "57"
+    }
+  },
+  {
+    "make": "Isuzu",
+    "model": "i-280",
+    "year": "2006",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "42.1",
+      "b": "13.7",
+      "c": "54"
+    }
+  },
+  {
+    "make": "Isuzu",
+    "model": "i-350",
+    "year": "2006",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "42.1",
+      "b": "13.7",
+      "c": "54"
+    }
+  },
+  {
+    "make": "Isuzu",
+    "model": "HTR",
+    "year": "2007",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "44.5",
+      "b": "22",
+      "c": "57"
+    }
+  },
+  {
+    "make": "Isuzu",
+    "model": "HTR",
+    "year": "2007",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "44.5",
+      "b": "22",
+      "c": "57"
+    }
+  },
+  {
+    "make": "Isuzu",
+    "model": "HVR",
+    "year": "2007",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "44.5",
+      "b": "22",
+      "c": "57"
+    }
+  },
+  {
+    "make": "Isuzu",
+    "model": "HVR",
+    "year": "2007",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "44.5",
+      "b": "22",
+      "c": "57"
+    }
+  },
+  {
+    "make": "Isuzu",
+    "model": "HXR",
+    "year": "2007",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "44.5",
+      "b": "22",
+      "c": "57"
+    }
+  },
+  {
+    "make": "Isuzu",
+    "model": "i-290",
+    "year": "2007",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "42.1",
+      "b": "13.7",
+      "c": "54"
+    }
+  },
+  {
+    "make": "Isuzu",
+    "model": "i-370",
+    "year": "2007",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "42.1",
+      "b": "13.7",
+      "c": "54"
+    }
+  },
+  {
+    "make": "Isuzu",
+    "model": "i-370",
+    "year": "2007",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "42.1",
+      "b": "13.7",
+      "c": "54"
+    }
+  },
+  {
+    "make": "Isuzu",
+    "model": "i-290",
+    "year": "2009",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "42.1",
+      "b": "13.7",
+      "c": "54"
+    }
+  },
+  {
+    "make": "Isuzu",
+    "model": "i-370",
+    "year": "2009",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "42.1",
+      "b": "13.7",
+      "c": "54"
+    }
+  },
+  {
+    "make": "Isuzu",
+    "model": "i-370",
+    "year": "2009",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "42.1",
+      "b": "13.7",
+      "c": "54"
+    }
+  },
+  {
+    "make": "Isuzu",
+    "model": "i-290",
+    "year": "2010",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "42.1",
+      "b": "13.7",
+      "c": "54"
+    }
+  },
+  {
+    "make": "Isuzu",
+    "model": "i-370",
+    "year": "2010",
+    "doors": "2 Door",
+    "windowSize": {
+      "a": "42.1",
+      "b": "13.7",
+      "c": "54"
+    }
+  },
+  {
+    "make": "Isuzu",
+    "model": "i-370",
+    "year": "2010",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "42.1",
+      "b": "13.7",
+      "c": "54"
+    }
+  }
+]

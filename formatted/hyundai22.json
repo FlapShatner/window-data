@@ -1,0 +1,13 @@
+[
+  {
+    "make": "Hyundai",
+    "model": "Santa Cruz",
+    "year": "2022",
+    "doors": "4 Door",
+    "windowSize": {
+      "a": "42.1",
+      "b": "15",
+      "c": "54"
+    }
+  }
+]
